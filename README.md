@@ -1,23 +1,32 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sarim</h1>
-<h3 align="center">A passionate Agentic AI Engineer</h3>
+<h3 align="center">Agentic AI Engineer & Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarimarain99&label=Profile%20views&color=0e75b6&style=flat" alt="sarimarain99" /> </p>
 
-- 🔭 I’m currently working on [Todo Evolution App](https://github.com/SarimArain99/hackathon-todo-evolution.git)
+- 🔭 I’m currently working on **[Hackathon Todo Evolution](https://github.com/SarimArain99/hackathon-todo-evolution)** — evolving a simple Todo app into a cloud-native, AI-powered chatbot deployed on Kubernetes
 
-- 🌱 I’m currently learning **Agentic AI**
+- 🏫 School Admin at Islamic Science College (Boys), managing 1,195 students
+
+- 🌱 I’m currently working with **Agentic AI, OpenAI Agents SDK, and Claude Code**
 
 - 👨‍💻 All of my projects are available at [https://portfoliosarim.vercel.app/](https://portfoliosarim.vercel.app/)
 
-- 💬 Ask me about **React,Next, OpenAI Agents SDK,and Claude Code**
+- 💬 Ask me about **React, Next.js, TypeScript, Python, and Agentic AI**
 
 - 📫 How to reach me **sarimarain99@gmail.com**
+
+### 🚀 Featured Projects
+
+- **[Hackathon Todo Evolution](https://github.com/SarimArain99/hackathon-todo-evolution)** — A 5-phase spec-driven project evolving a simple Todo app into a cloud-native, AI-powered chatbot deployed on Kubernetes
+- **[Physical AI & Humanoid Robotics](https://github.com/SarimArain99/physical-ai-and-humanoid-robotics)** — A book about Physical AI and Humanoid Robotics
+- **[Data Encryption System](https://github.com/SarimArain99/Data-EncryptionSystem)** — 🔐 Secure Data Vault: a Streamlit app to safely encrypt and store sensitive text with a secret passkey
+- **[Crafted Visions](https://github.com/SarimArain99/Crafted-Visions)** — A sleek, modern mini website showcasing creative and technical projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-sarim-arain-b3795a2ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sarim-arain-b3795a2ba" height="30" width="40" /></a>
 <a href="https://fb.com/sarim727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarim727" height="30" width="40" /></a>
-<a href="https://instagram.com/sarim_arain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarim_arain" height="30" width="40" /></a>
+<a href="https://instagram.com/dev_sarim_arain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_sarim_arain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
