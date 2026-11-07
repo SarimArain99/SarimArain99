@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarimarain99&label=Profile%20views&color=0e75b6&style=flat" alt="sarimarain99" /> </p>
 
-- 🔭 I’m currently working on **[Hackathon Todo Evolution](https://github.com/SarimArain99/hackathon-todo-evolution)** — evolving a simple Todo app into a cloud-native, AI-powered chatbot deployed on Kubernetes
+- 🔭 I’m currently working on **[Dayline](https://github.com/SarimArain99/hackathon-todo-evolution)** — evolving a simple Todo app into a cloud-native, AI-powered chatbot deployed on Kubernetes
 
 - 🏫 School Admin at Islamic Science College (Boys), managing 1,195 students
 
@@ -17,7 +17,7 @@
 
 ### 🚀 Featured Projects
 
-- **[Hackathon Todo Evolution](https://github.com/SarimArain99/hackathon-todo-evolution)** — A 5-phase spec-driven project evolving a simple Todo app into a cloud-native, AI-powered chatbot deployed on Kubernetes
+- **[Dayline](https://github.com/SarimArain99/hackathon-todo-evolution)** — A 5-phase spec-driven project evolving a simple Todo app into a cloud-native, AI-powered chatbot deployed on Kubernetes
 - **[Physical AI & Humanoid Robotics](https://github.com/SarimArain99/physical-ai-and-humanoid-robotics)** — A book about Physical AI and Humanoid Robotics
 - **[Data Encryption System](https://github.com/SarimArain99/Data-EncryptionSystem)** — 🔐 Secure Data Vault: a Streamlit app to safely encrypt and store sensitive text with a secret passkey
 - **[Crafted Visions](https://github.com/SarimArain99/Crafted-Visions)** — A sleek, modern mini website showcasing creative and technical projects
