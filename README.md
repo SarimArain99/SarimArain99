@@ -19,7 +19,7 @@
 
 - **[Dayline](https://github.com/SarimArain99/hackathon-todo-evolution)** — A 5-phase spec-driven project evolving a simple Todo app into a cloud-native, AI-powered chatbot deployed on Kubernetes
 - **[Physical AI & Humanoid Robotics](https://github.com/SarimArain99/physical-ai-and-humanoid-robotics)** — A book about Physical AI and Humanoid Robotics
-- **[Data Encryption System](https://github.com/SarimArain99/Data-EncryptionSystem)** — 🔐 Secure Data Vault: a Streamlit app to safely encrypt and store sensitive text with a secret passkey
+- **[CipherVault](https://github.com/SarimArain99/CipherVault)** — 🔐 Zero-knowledge encrypted vault: AES-256-GCM browser encryption, file tools, password generator and expiring share links — live at https://cipher-vault-bice.vercel.app/
 - **[Crafted Visions](https://github.com/SarimArain99/Crafted-Visions)** — A sleek, modern mini website showcasing creative and technical projects
 
 <h3 align="left">Connect with me:</h3>
