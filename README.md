@@ -7,6 +7,8 @@
 
 - 🏫 School Admin at Islamic Science College (Boys), managing 1,195 students
 
+- 👨‍🏫 I teach **Website Development using Next.js along with AI**
+
 - 🌱 I’m currently working with **Agentic AI, OpenAI Agents SDK, and Claude Code**
 
 - 👨‍💻 All of my projects are available at [https://portfoliosarim.vercel.app/](https://portfoliosarim.vercel.app/)
@@ -20,7 +22,6 @@
 - **[Dayline](https://github.com/SarimArain99/hackathon-todo-evolution)** — A 5-phase spec-driven project evolving a simple Todo app into a cloud-native, AI-powered chatbot deployed on Kubernetes
 - **[Physical AI & Humanoid Robotics](https://github.com/SarimArain99/physical-ai-and-humanoid-robotics)** — A book about Physical AI and Humanoid Robotics
 - **[CipherVault](https://github.com/SarimArain99/CipherVault)** — 🔐 Zero-knowledge encrypted vault: AES-256-GCM browser encryption, file tools, password generator and expiring share links — live at https://cipher-vault-bice.vercel.app/
-- **[Crafted Visions](https://github.com/SarimArain99/Crafted-Visions)** — A sleek, modern mini website showcasing creative and technical projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
